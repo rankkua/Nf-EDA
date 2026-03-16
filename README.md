@@ -15,7 +15,11 @@ https://www.kaggle.com/datasets/shivamb/netflix-shows/data
 * Visualize the cleaned data  
 
 
-##### Libraries used
+##### Python Libraries Used
 
 * Pandas
 * NumPy  
+* Matplotlib
+* Seaborn
+
+
